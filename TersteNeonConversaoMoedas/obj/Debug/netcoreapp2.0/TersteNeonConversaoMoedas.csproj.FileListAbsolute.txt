@@ -1,0 +1,30 @@
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.deps.json
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.runtimeconfig.json
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.runtimeconfig.dev.json
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.dll
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.pdb
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.csprojAssemblyReference.cache
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.csproj.CoreCompileInputs.cache
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.AssemblyInfoInputs.cache
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.AssemblyInfo.cs
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.dll
+C:\Users\artvi\OneDrive\Projetos\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.deps.json
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.runtimeconfig.json
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.runtimeconfig.dev.json
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.csprojAssemblyReference.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.AssemblyInfoInputs.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.AssemblyInfo.cs
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.csproj.CopyComplete
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.IService.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Service.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.IService.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Service.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TersteNeonConversaoMoedas\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

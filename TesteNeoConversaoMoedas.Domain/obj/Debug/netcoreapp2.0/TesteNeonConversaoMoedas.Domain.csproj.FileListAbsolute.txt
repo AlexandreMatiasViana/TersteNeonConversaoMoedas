@@ -1,0 +1,9 @@
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.deps.json
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.AssemblyInfo.cs
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.csprojAssemblyReference.cache

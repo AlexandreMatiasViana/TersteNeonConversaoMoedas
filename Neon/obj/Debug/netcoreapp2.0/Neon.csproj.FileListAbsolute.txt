@@ -1,0 +1,11 @@
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.deps.json
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.runtimeconfig.json
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.runtimeconfig.dev.json
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.csprojAssemblyReference.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.AssemblyInfoInputs.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.AssemblyInfo.cs
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.pdb

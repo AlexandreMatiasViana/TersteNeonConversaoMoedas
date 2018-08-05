@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>6855b4ac-ccd6-4fcb-bc97-acfc87e9891f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="4.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
+    <PackageReference Include="StructureMap" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteNeoConversaoMoedas.Domain\TesteNeonConversaoMoedas.Domain.csproj" />
+    <ProjectReference Include="..\TesteNeonConversaoMoedas.IService\TesteNeonConversaoMoedas.IService.csproj" />
+    <ProjectReference Include="..\TesteNeonConversaoMoedas.Service\TesteNeonConversaoMoedas.Service.csproj" />
+  </ItemGroup>
+
+</Project>

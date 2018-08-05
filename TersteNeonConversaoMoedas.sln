@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TersteNeonConversaoMoedas", "TersteNeonConversaoMoedas\TersteNeonConversaoMoedas.csproj", "{AE0DEF33-1795-4838-9573-4130A44C0A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteNeonConversaoMoedas.Domain", "TesteNeoConversaoMoedas.Domain\TesteNeonConversaoMoedas.Domain.csproj", "{38E798E0-FE42-48E8-A59C-6500CD8EA755}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neon", "Neon\Neon.csproj", "{DE1D57A0-5C92-4264-B3A2-05B49D60B08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteNeonConversaoMoedas.Service", "TesteNeonConversaoMoedas.Service\TesteNeonConversaoMoedas.Service.csproj", "{43672D18-8E51-4FFD-91AC-B2F9CF0CFB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteNeonConversaoMoedas.IService", "TesteNeonConversaoMoedas.IService\TesteNeonConversaoMoedas.IService.csproj", "{82834C0B-67D3-4A47-93C8-195201353012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteUnidadeConversorMoedas", "TesteUnidadeConversorMoedas\TesteUnidadeConversorMoedas.csproj", "{6AF3EFD9-E101-47D1-AA2E-9D1F65986A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0DEF33-1795-4838-9573-4130A44C0A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0DEF33-1795-4838-9573-4130A44C0A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0DEF33-1795-4838-9573-4130A44C0A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0DEF33-1795-4838-9573-4130A44C0A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E798E0-FE42-48E8-A59C-6500CD8EA755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E798E0-FE42-48E8-A59C-6500CD8EA755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E798E0-FE42-48E8-A59C-6500CD8EA755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E798E0-FE42-48E8-A59C-6500CD8EA755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1D57A0-5C92-4264-B3A2-05B49D60B08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1D57A0-5C92-4264-B3A2-05B49D60B08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1D57A0-5C92-4264-B3A2-05B49D60B08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1D57A0-5C92-4264-B3A2-05B49D60B08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43672D18-8E51-4FFD-91AC-B2F9CF0CFB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43672D18-8E51-4FFD-91AC-B2F9CF0CFB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43672D18-8E51-4FFD-91AC-B2F9CF0CFB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43672D18-8E51-4FFD-91AC-B2F9CF0CFB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82834C0B-67D3-4A47-93C8-195201353012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82834C0B-67D3-4A47-93C8-195201353012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82834C0B-67D3-4A47-93C8-195201353012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82834C0B-67D3-4A47-93C8-195201353012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF3EFD9-E101-47D1-AA2E-9D1F65986A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF3EFD9-E101-47D1-AA2E-9D1F65986A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF3EFD9-E101-47D1-AA2E-9D1F65986A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF3EFD9-E101-47D1-AA2E-9D1F65986A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB3C9BCC-D5DA-46CD-AD16-4BF95AAA4D00}
+	EndGlobalSection
+EndGlobal

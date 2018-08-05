@@ -1,0 +1,14 @@
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\TesteNeon.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\TesteNeon.pdb
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\obj\Debug\TesteNeon.csprojAssemblyReference.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\obj\Debug\TesteNeon.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\obj\Debug\TesteNeon.csproj.CopyComplete
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\obj\Debug\TesteNeon.dll
+C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeon\obj\Debug\TesteNeon.pdb
