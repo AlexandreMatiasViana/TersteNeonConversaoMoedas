@@ -12923,11 +12923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas.csproj",
+      "projectUniqueName": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas.csproj",
       "projectName": "TersteNeonConversaoMoedas",
-      "projectPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas.csproj",
+      "projectPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas.csproj",
       "packagesPath": "C:\\Users\\artvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas\\obj\\",
+      "outputPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TersteNeonConversaoMoedas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12946,14 +12946,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj"
+            "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj": {
+              "projectPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj"
             },
-            "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.IService\\TesteNeonConversaoMoedas.IService.csproj": {
-              "projectPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.IService\\TesteNeonConversaoMoedas.IService.csproj"
+            "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.IService\\TesteNeonConversaoMoedas.IService.csproj": {
+              "projectPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.IService\\TesteNeonConversaoMoedas.IService.csproj"
             },
-            "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.Service\\TesteNeonConversaoMoedas.Service.csproj": {
-              "projectPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.Service\\TesteNeonConversaoMoedas.Service.csproj"
+            "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.Service\\TesteNeonConversaoMoedas.Service.csproj": {
+              "projectPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeonConversaoMoedas.Service\\TesteNeonConversaoMoedas.Service.csproj"
             }
           }
         }

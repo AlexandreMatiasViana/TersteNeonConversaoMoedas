@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\Neon\\Neon.csproj",
+      "projectUniqueName": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\Neon\\Neon.csproj",
       "projectName": "Neon",
-      "projectPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\Neon\\Neon.csproj",
+      "projectPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\Neon\\Neon.csproj",
       "packagesPath": "C:\\Users\\artvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\Neon\\obj\\",
+      "outputPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\Neon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -21,3 +21,26 @@ C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteUnidadeConversorMoeda
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.csproj.CopyComplete
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.dll
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.deps.json
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.runtimeconfig.json
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.runtimeconfig.dev.json
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.IService.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Service.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TersteNeonConversaoMoedas.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.IService.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Service.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.csprojAssemblyReference.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.csproj.CoreCompileInputs.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.AssemblyInfoInputs.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.AssemblyInfo.cs
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.csproj.CopyComplete
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteUnidadeConversorMoedas\obj\Debug\netcoreapp2.0\TesteUnidadeConversorMoedas.pdb

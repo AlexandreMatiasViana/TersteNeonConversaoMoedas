@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj",
       "projectName": "TesteNeonConversaoMoedas.Domain",
-      "projectPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj",
+      "projectPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\TesteNeonConversaoMoedas.Domain.csproj",
       "packagesPath": "C:\\Users\\artvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Projetos WebApi\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\obj\\",
+      "outputPath": "C:\\Users\\artvi\\source\\repos\\TersteNeonConversaoMoedas\\TesteNeoConversaoMoedas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,3 +7,11 @@ C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Do
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.csprojAssemblyReference.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.deps.json
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\bin\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.AssemblyInfoInputs.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.AssemblyInfo.cs
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb

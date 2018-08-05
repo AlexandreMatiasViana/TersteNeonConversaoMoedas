@@ -9,3 +9,14 @@ C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.AssemblyInfo.cs
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.dll
 C:\Projetos\Projetos WebApi\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.deps.json
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.runtimeconfig.json
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.runtimeconfig.dev.json
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\bin\Debug\netcoreapp2.0\Neon.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.csproj.CoreCompileInputs.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.AssemblyInfoInputs.cache
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.AssemblyInfo.cs
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.dll
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\Neon\obj\Debug\netcoreapp2.0\Neon.csprojAssemblyReference.cache
