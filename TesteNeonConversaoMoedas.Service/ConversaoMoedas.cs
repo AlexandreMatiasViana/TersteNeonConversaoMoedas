@@ -49,7 +49,9 @@ namespace TesteNeonConversaoMoedas.Service
 
             if (converterMoeda == null)
             {
-                lstErros.Add("Nenhum dado informado.");
+                lstErros.Add("Por favor preencher todos os dados.");
+                validaDados.Mensagem = lstErros.Count > 0 ? "Ops! Favor verificar os erros" : "";
+                validaDados.lstErros = lstErros;
                 return validaDados;
             }
 

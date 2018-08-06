@@ -1,10 +1,14 @@
 ﻿// Write your Javascript code.
-
+var erros;
 
 $(document).ready(function() {
 
-    $("#btnConverter").on("click", function() {
-        converteMoeda();
+    $("#btnConverter").on("click", function () {
+
+        if (!validarPreenchimentoValor())
+            alert(erros);
+        else
+            converteMoeda();
     });
 
     populaDropDownMoedas();
@@ -12,6 +16,16 @@ $(document).ready(function() {
 
 });
 
+
+validarPreenchimentoValor = function () {
+
+    if ($("#valor").val() === "") {
+        erros = "Favor preencher o valor";
+        return false;
+    }
+
+    return true
+};
 
 converteMoeda = function() {
 

@@ -15,3 +15,4 @@ C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Do
 C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.AssemblyInfo.cs
 C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.dll
 C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.pdb
+C:\Users\artvi\source\repos\TersteNeonConversaoMoedas\TesteNeoConversaoMoedas.Domain\obj\Debug\netcoreapp2.0\TesteNeonConversaoMoedas.Domain.csprojAssemblyReference.cache
